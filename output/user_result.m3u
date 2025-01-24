@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-24 06:41:52" tvg-logo="https://live.fanmingming.com/tv/2025-01-24 06:41:52.png" group-title="更新时间",2025-01-24 06:41:52
+#EXTINF:-1 tvg-name="2025-01-24 18:46:16" tvg-logo="https://live.fanmingming.com/tv/2025-01-24 18:46:16.png" group-title="更新时间",2025-01-24 18:46:16
 url
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
 http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -82,7 +82,7 @@ http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
 http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
-http://120.234.5.29:6000/udp/239.20.0.28:3292$订阅源|1920x1080
+http://58.221.214.82:9901/tsfile/live/0003_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
 http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源|IPv6
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
@@ -90,15 +90,15 @@ http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.c
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1926180487_-439218358/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?$订阅源|IPv6
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
-http://58.221.214.82:9901/tsfile/live/0003_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$订阅源
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV-3综艺
+https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际.png",CCTV-4国际
 http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 #EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际.png",CCTV-4国际
 http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际.png",CCTV-4国际
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际.png",CCTV-4国际
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1530458601_-2138527565/ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8?$订阅源|IPv6
 #EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4国际.png",CCTV-4国际
@@ -324,11 +324,11 @@ http://220.249.114.102:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png",CCTV5+体育赛事
 http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png",CCTV5+体育赛事
-http://146.235.213.45:35455/gaoma/cctv5p.m3u8$订阅源|1920x1080
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png",CCTV5+体育赛事
 http://123.182.60.29:9002/hls/17/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png",CCTV5+体育赛事
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源|1920x1080
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png",CCTV5+体育赛事
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3$订阅源
 #EXTINF:-1 tvg-name="CGTN-纪录(国际版)" tvg-logo="https://live.fanmingming.com/tv/CGTN-纪录(国际版).png",CGTN-纪录(国际版)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV中视购物" tvg-logo="https://live.fanmingming.com/tv/CCTV中视购物.png",CCTV中视购物
@@ -822,7 +822,7 @@ http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV-4欧洲
 http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV-4欧洲
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV-4欧洲
 http://61.173.144.157:9901/tsfile/live/0004_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV-4欧洲
@@ -839,8 +839,6 @@ https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=204109d97768268ff538ad7694c
 https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=d423baa6f051a32ced725e7f7b8431c9&time=66d688c2$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
 http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$订阅源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
-http://183.11.239.36:808/hls/133/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
 http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$订阅源
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",世界地理
