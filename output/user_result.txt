@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-25 18:43:24,url
+2025-01-26 06:39:40,url
 ,#genre#
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 辽宁卫视,http://220.249.114.102:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -137,9 +137,9 @@ CCTV-15音乐,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/m
 CCTV-15音乐,http://58.221.214.82:9901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-15音乐,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3$订阅源
 CCTV-15音乐,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8$订阅源
-CCTV-16奥林匹克,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$订阅源|3840x2160
 CCTV-16奥林匹克,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$订阅源
 CCTV-16奥林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源|1920x1080
+CCTV-16奥林匹克,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$订阅源
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8$订阅源|IPv6
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?$订阅源|IPv6
 CCTV-16奥林匹克,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3$订阅源|IPv6
@@ -170,15 +170,15 @@ CCTV中视购物,http://58.221.214.82:9901/tsfile/live/0013_2.m3u8$订阅源
 天津卫视,http://[2409:8087:1a0a:df::402e]:80/wh7f454c46tw2817558359_702405668/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8?icpid=88888888&RTS=1713969646&from=4&hms_devid=1103&online=1713969646&vqe=3$订阅源|IPv6
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$订阅源|IPv6
 天津卫视,http://58.221.214.82:9901/tsfile/live/0135_1.m3u8$订阅源
-天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8$订阅源
 天津卫视,http://202.100.46.58:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+天津卫视,http://202.100.46.58:9901/tsfile/live/1030_1.m3u8$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 浙江卫视,http://220.249.114.102:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1549883711_-1309402365/ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8?icpid=3&RTS=1674385960&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3$订阅源|IPv6
 浙江卫视,http://[2409:8087:5e08:24::12]:6610/200000001898/460000089800010070/1.m3u8?IASHttpSessionId=RR1014820230313082645004481$订阅源|IPv6
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$订阅源|IPv6
-浙江卫视,http://wouu.net:9977/udp/239.93.0.124:5140$订阅源|1920x1080
+浙江卫视,http://livetv.wqwqwq.sbs/itv/1000000001000014260.m3u8?cdn=ystenlive$订阅源|1920x1080
 浙江卫视,http://58.221.214.82:9901/tsfile/live/0124_1.m3u8$订阅源
 浙江卫视,http://202.100.46.58:9901/tsfile/live/1021_1.m3u8$订阅源
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
