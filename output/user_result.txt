@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-02 06:38:45,url
+2025-02-02 18:43:12,url
 ,#genre#
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -198,10 +198,10 @@ CCTV中视购物,http://58.221.214.82:9901/tsfile/live/0013_2.m3u8$订阅源
 山西卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=SXWS$订阅源
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-广东卫视,http://219.145.93.74:9999/tsfile/live/1006_1.m3u8$订阅源|1920x1080
-广东卫视,http://[2409:8087:1a0a:df::4011]:80/wh7f454c46tw2785724078_-429391256/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8?icpid=88888888&RTS=1713969614&from=4&hms_devid=772&online=1713969614&vqe=3$订阅源|IPv6
 广东卫视,http://58.221.214.82:9901/tsfile/live/0125_1.m3u8$订阅源
+广东卫视,http://[2409:8087:1a0a:df::4011]:80/wh7f454c46tw2785724078_-429391256/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8?icpid=88888888&RTS=1713969614&from=4&hms_devid=772&online=1713969614&vqe=3$订阅源|IPv6
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8$订阅源
+广东卫视,http://111.61.236.247:9081/hls/43/index.m3u8$订阅源
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8$订阅源
 广西卫视,http://111.61.236.247:9081/hls/44/index.m3u8$订阅源
@@ -349,4 +349,3 @@ CCTV-4欧洲,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8$订阅源
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000$订阅源
 法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源|IPv6
 法治天地,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源|IPv6
-都市剧场,http://ha.xushining.com:50000/udp/225.1.1.146:5002$订阅源|1920x1080
