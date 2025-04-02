@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-02 18:36:11,url
+2025-04-03 06:27:52,url
 ,#genre#
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -176,8 +176,8 @@ CCTV-16奥林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8$订阅源|IPv6
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?$订阅源|IPv6
 CCTV-16奥林匹克,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3$订阅源|IPv6
-CCTV-16奥林匹克,http://gmxw.7766.org:808/hls/169/index.m3u8$订阅源
 CCTV-16奥林匹克,http://222.219.183.103:8089/hls/16/index.m3u8$订阅源
+CCTV-16奥林匹克,https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8$订阅源
 CCTV-17高清,http://183.239.226.235:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
 CCTV-17高清,http://121.11.160.7:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
 CCTV-17高清,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
