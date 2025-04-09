@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-09 18:39:10,url
+2025-04-10 06:27:49,url
 ,#genre#
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 辽宁卫视,http://183.239.226.235:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
